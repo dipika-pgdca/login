@@ -29,6 +29,7 @@ h1{
     box-shadow: 2px 4px 4px 3px #000;
     background-color: cadetblue;
     color: rgb(255, 255, 255);
+    min-width:400px;
    
 }
 button{
